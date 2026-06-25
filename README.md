@@ -13,7 +13,7 @@
 #### Familie  (Gewone/ Goede familie) --- *De Champignonnenhoeve*
 | Personage | Acteur |
 | :--- | :--- |
-| Manager |  |
+| Manager | |
 | Chefkok | |
 | Ober | |
 
