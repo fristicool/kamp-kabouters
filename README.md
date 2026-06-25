@@ -17,6 +17,12 @@
 | Chefkok | |
 | Ober | |
 
+#### Andere rollen
+| Personage | Acteur |
+| :--- | :--- |
+| Postbode |  |
+| Inspecteur | |
+| Gasten | |
 
 ### Overzicht per dag
 | Dag | Written | Personages | Omschrijving |
