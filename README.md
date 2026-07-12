@@ -20,7 +20,7 @@
 #### Andere rollen
 | Personage | Acteur |
 | :--- | :--- |
-| Postbode |  |
+| Postbode | Ran |
 | Inspecteur | |
 | Gasten | |
 
