@@ -6,9 +6,9 @@
 
 | Personage | Acteur |
 | :--- | :--- |
-| Manager |  |
-| Chefkok | |
-| Ober | |
+| Manager | Ferre |
+| Chefkok | Jasper|
+| Ober | Annabel|
 
 #### Familie  (Gewone/ Goede familie) --- *De Champignonnenhoeve*
 | Personage | Acteur |
